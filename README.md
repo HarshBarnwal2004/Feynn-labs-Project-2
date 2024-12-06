@@ -21,11 +21,11 @@ Price: Indicative price point of interest.
 # Installation
 1. Clone the repository
 
-   'git clone <repository_url>
-   cd <repository_directory>'
+   `git clone <repository_url>
+   cd <repository_directory>`
 3. Install the required Python libraries
    
-   'pip install -r requirements.txt'
+   `pip install -r requirements.txt`
 
 # Visualizations
 The project includes the following key visualizations:
